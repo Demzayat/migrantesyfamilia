@@ -1,0 +1,291 @@
+---
+title: "Derecho de niños, niñas y adolescentes a 30 años de la Convención de los Derechos del Niño"
+subtitle: "Clase Migraciones y DESC"
+author: "Demián Zayat"
+institute: "Universidad de Buenos Aires"
+date: "25/07/2019"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      beforeInit: "macros.js"
+      autoplay: false
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+# Parte 1. Migraciones y Derecho de NNA
+
+--
+
+Estamos ante un mundo globalizado, donde 
+.pull-left[
+
+nos prometen
+
+![](https://sfo2.digitaloceanspaces.com/elpaiscr/2019/06/Globalizaci%C3%B3n.jpg)
+]
+--
+
+.pull-right[
+pero tenemos
+
+![:scale 100%](https://www.amnesty.org.au/wp-content/uploads/2016/09/20635914503_14bda97e27_o-1600x867.jpg)]
+
+## ¿Cuál es el lugar del Derecho?
+---
+class: top
+### Empecemos por el principio:
+
+<p align="center"><font size=100%> Se puede elegir donde nacer?</font></p>
+--
+.pull-left[
+![](http://2.bp.blogspot.com/_utm314XK0-M/RwFCLw9rOnI/AAAAAAAAAHc/BBsg1Ae_gpI/s320/03-rawls-225.jpg)
+
+John Rawls
+
+]
+--
+.pull-right[
+
+![](https://www.enca.com/sites/default/files/LOTTO%20BALLS.jpg)
+
+Es parte de la _lotería natural_
+]
+
+--
+
+Se pueden desprender consecuencias morales a hechos ajenos a la voluntad de la persona?
+
+--
+Para el liberalismo político, la respuesta es **NO**.
+
+---
+font: 130%
+
+## Dos principios de Justicia:
+
+### Primer principio:
+> Cada Persona tiene un derecho igual a un esquema plenamente adecuado de libertades y derechos básicos iguales, compatibles con el mismo esquema para todos, y que garantizará el valor justo de las libertades políticas, y sólo de esas libertades (_principio de la igual libertad_).
+
+### Segundo principio
+> Las desigualdades sociales y económicas deben satisfacer dos condiciones: primera, deben estar asociadas a posiciones y cargos abiertos a todos en condiciones de igualdad de oportunidades (_principio de la justa igualdad de oportunidades_); y segunda, deben redundar en el mayor beneficio posible para los individuos peor situados de la sociedad (_principio de la diferencia_).
+
+---
+class: center, middle
+## ¿Existe un derecho humano a migrar?
+
+
+rapido quiz
+[vamos menti.com](https://www.mentimeter.com/s/623f26fc19d0c6db6c6b55c5dc07ac2b/d15defaac0e5)
+
+
+---
+## Pacto internacional de Derechos Civiles Y Políticos
+ **Art. 12**. 1. Toda persona que se halle legalmente en el territorio de un Estado tendrá derecho a circular libremente por él y a escoger libremente en él su residencia.
+2. Toda persona tendrá derecho a salir libremente de cualquier país, incluso del propio.
+3. Los derechos antes mencionados no podrán ser objeto de restricciones salvo cuando éstas se hallen previstas en la ley, sean necesarias para proteger la seguridad nacional, el orden público, la salud o la moral públicas o los derechos y libertades de terceros, y sean compatibles con los demás derechos reconocidos en el presente Pacto.
+4. Nadie podrá ser arbitrariamente privado del derecho a entrar en su propio país.
+
+**Art 13**. El extranjero que se halle legalmente en el territorio de un Estado Parte en el presente Pacto sólo podrá ser expulsado de él en cumplimiento de una decisión adoptada conforme a la ley; y, a menos que razones imperiosas de seguridad nacional se opongan a ello, se permitirá a tal extranjero exponer las razones que lo asistan en contra de su expulsión, así como someter su caso a revisión ante la autoridad competente o bien ante la persona o personas designadas especialmente por dicha autoridad competente, y hacerse representar con tal fin ante ellas.
+
+---
+## Convención Americana sobre Derechos Humanos
+**Art. 22**.  Derecho de Circulación y de Residencia
+ 1. Toda persona que se halle legalmente en el territorio de un Estado tiene derecho a circular por el mismo y, a residir en él con sujeción a las disposiciones legales.
+ 2. Toda persona tiene derecho a salir libremente de cualquier país, inclusive del propio.
+ 3. El ejercicio de los derechos anteriores no puede ser restringido sino en virtud de una ley, en la medida indispensable en una sociedad democrática, para prevenir infracciones penales o para proteger la seguridad nacional, la seguridad o el orden públicos, la moral o la salud públicas o los derechos y libertades de los demás.
+ 4. El ejercicio de los derechos reconocidos en el inciso 1 puede asimismo ser restringido por la ley, en zonas determinadas, por razones de interés público.
+ 5. Nadie puede ser expulsado del territorio del Estado del cual es nacional, ni ser privado del derecho a ingresar en el mismo.
+ 6. El extranjero que se halle legalmente en el territorio de un Estado parte en la presente Convención, sólo podrá ser expulsado de él en cumplimiento de una decisión adoptada conforme a la ley.
+
+---
+## Convención Americana sobre Derechos Humanos (cont)
+**Art. 22**.  Derecho de Circulación y de Residencia
+
+'7. Toda persona tiene el derecho de buscar y recibir asilo en territorio extranjero en caso de persecución por delitos políticos o comunes conexos con los políticos y de acuerdo con la 
+legislación de cada Estado y los convenios internacionales.
+
+'8. En ningún caso el extranjero puede ser expulsado o devuelto a otro país, sea o no de origen, donde su derecho a la vida o a la libertad personal está en riesgo de violación a causa de raza, nacionalidad, religión, condición social o de sus opiniones políticas.
+
+'9. Es prohibida la expulsión colectiva de extranjeros.
+
+---
+## Convención internacional sobre la protección de los derechos de todos los trabajadores migratorios y de sus familiares
+
+.center[Aprobada por Ley 26.202
+
+[![](http://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/124232/ley26202-17-1-2007.jpg)](https://www.ohchr.org/sp/professionalinterest/pages/cmw.aspx)]
+
+
+
+
+---
+
+## Constitución Nacional
+> **Art. 14**. Todos _los habitantes_ de la Nación gozan de los siguientes derechos conforme a las Leyes que reglamenten su ejercicio ... _de entrar, permanecer, transitar y salir del territorio argentino_
+
+> **Art. 20**. Los extranjeros gozan en el territorio de la Nación de todos los derechos civiles del ciudadano; pueden ejercer su industria, comercio y profesión; poseer bienes raíces, comprarlos y enajenarlos; navegar los ríos y costas; ejercer libremente su culto; testar y casarse conforme a las leyes. No están obligados a admitir la ciudadanía, ni a pagar contribuciones forzosas extraordinarias. Obtienen nacionalización residiendo dos años continuos en la Nación; pero la autoridad puede acortar este término a favor del que lo solicite, alegando y probando servicios a la República.
+
+> **Art. 25**. El Gobierno federal fomentará la inmigración europea; y no podrá restringir, limitar ni gravar con impuesto alguno la entrada en el territorio argentino de los extranjeros que traigan por objeto labrar la tierra, mejorar las industrias, e introducir y enseñar las ciencias y las artes.
+
+---
+class: middle
+
+## Ley de Migraciones 25.871 (2004)
+- Derogación de la Ley Videla. Historia de la Sanción de la ley.
+
+- Perspectiva de Derechos en la ley, y adopción del Derecho Humano a migrar:
+>**Art. 4.** El derecho a la migración es esencial e inalienable de la persona y la República Argentina lo garantiza sobre la base de los principios de igualdad y universalidad.
+
+
+.center[[Link a la ley sancionada por el Congreso](http://servicios.infoleg.gob.ar/infolegInternet/anexos/90000-94999/92016/norma.htm)]
+
+---
+## Promoción de la igualdad, temas pendientes
+
+- Derechos políticos y electorales
+
+- Leyes discriminatorias
+  - Acceso a derechos sociales. Pensión por discapacidad (Reyes Aguilera) y Programa de Emergencia Habitacional en Ciudad, por ejemplo.
+
+- Derechos Civiles (interpretación ajustada del art. 20 CN), pero no para Empleo público (Gottschau, TSJ), Estatuto Docente de la Ciudad, Ley Notarial, Carrera Municipal de la Salud, Ley Integral de Seguridad Pública
+
+- Política criminal. Perfilamiento Racial. Persecución a los trabajadores informales. Senegaleses, mujeres trans migrantes.
+
+- Discurso de migrante/enemigo. Estereotipos y propaganda antiinmigrante
+
+(paper de pensar la ciudad disponible [aquí](http://www.adaciudad.org.ar/docs/97-117.pdf))
+---
+class: invert
+background-image: url(https://preview.redd.it/65457kdo7yi01.jpg?width=640&crop=smart&auto=webp&s=662df47d4c8edd0958fa9ead0fef35c509e0e8e1)
+background-size: contain
+# Año 2000
+---
+background-image: url(https://cde.laprensa.e3.pe/ima/0/0/1/5/8/158658.jpg)
+backgroud-size: contain 
+# Año 2017
+---
+# Parte 2. Cambio en la política migratoria
+
+Desde la asunción del actual gobierno hubo un giro en la política migratoria que se vio plasmado, principalmente, en la reforma a la ley 25.871 por parte del DNU 70/17?
+
+Entre los fundamentos del DNU se hizo hincapié en que era necesario agilizar los procesos de expulsión, y el gobierno, basado en datos sacados de contexto, asoció la migración con la delincuencia, y vino por este DNU a relajar las garantías en las expulsiones.
+
+Aca hay datos que no se tuvieron en cuenta. [datos migrantes](http://www.datosmigrantes.antidiscriminacion.org)
+
+---
+## La declaración de Inconstitucionalidad del DNU
+
+La Sala V de la Cámara Contencioso Administrativo Federal de la Capital declaró la inconstitucionalidad del DNU,en un amparo promovido por el CELS, CAREF y COPADI. [Aquí](https://www.cels.org.ar/web/wp-content/uploads/2018/03/fallo-camara-migrantes.pdf)
+
+Entre los argumentos mencionaron los siguientes:
+
+- No existían circunstancias excepcionales que habilitaran el dictado de un DNU
+
+- Los considerandos no se sustentan en datos facticos comprobables
+
+- El DNU vulnera el debido proceso del que gozan los migrantes en sus trámites migratorios y de expulsión (CorteIDH Dorzema, Velez Loor, Pacheco Tineo)
+
+- El DNU afecta el acceso a la justicia que los migrantes tienen garantizados (CorteIDH OC 18/03, parr 126)
+
+- La retención preventiva no es punitiva, sino cuando fuere necesario y proporcionado (Velez Loor)
+
+- Restringe la revisión judicial de la dispensa por reunificación familiar
+---
+## Derecho a la reunificación familiar
+
+Uno de los principios del derecho migratorio es la reunificación familiar. El artículo 3.d de la ley de migraciones establece que uno de los objetivos de la ley es _Garantizar el ejercicio del derecho a la reunificación familiar_. 
+
+El artículo 10, por su parte también expresa que _El Estado garantizará el derecho de reunificación familiar de los inmigrantes con sus padres, cónyuges, hijos solteros menores o hijos mayores con capacidades diferentes._
+
+La reunificación familiar también es el criterio rector por el cuál los migrantes pueden obtener una residencia permanente en el país (art. 22)
+
+Sin embargo, la actual política no está garantizando este derecho al expulsar a una madre o padre dejando a sus hijos en el país. Veamos los casos:
+
+---
+## Vanessa Gómez Cuevas
+
+El caso de Vanessa es paradigmático. Amnistía Internacional inició una campaña para que le permitan retornar al país, y el CELS y CAREF llevaron el caso a la Comisión Interamericana.
+
+Aquí [mas datos del caso](https://www.pagina12.com.ar/205501-ayudemos-a-vanessa-a-volver-amnistia-internacional-exige-el-)
+
+Aca datos de la causa CAF 67668/2018 [SCW](http://scw.pjn.gov.ar/scw/viewer.seam?id=EIGmZhG9A0lrQbfKSBkp8Uw03%2FGkJCa142jpe3otWHY%3D&tipoDoc=despacho&cid=1881240)
+
+![:scale 60%](https://bucket2.glanacion.com/anexos/fotos/93/2909093w740.jpg)
+
+---
+## Yhony Quiroz Cueva
+Padre de un hijo de 8, había sido condenado a 3 años de prisión en suspenso por el delito de "Amenazas coactivas" 
+
+## Ariel Almendras Orellana
+Padre de dos mellizas de cuatro años, condenado a 1 año y 4 meses de prisión en suspenso por tenencia de arma de fuego
+
+los casos [aca](https://docs.google.com/spreadsheets/d/1DMU0J7xFjv50BZDz7LEFc-stANd1ktoPlKJ_ye7HR-0/edit?usp=sharing)
+
+---
+## La posición de la DNM
+
+La Diputada Nacional Mónica Macha solicitó informes a la DNM sobre la afectación del derecho de reunificación familiar y dijo lo siguiente
+[aca](https://drive.google.com/file/d/1wwkta6DXZrHuEYimg11R4c_YxBHIn_90/view?usp=sharing)
+
+- La CDN en su artículo 9.4 establece que 
+> Cuando esa separación sea resultado de una medida adoptada por un Estado Parte, como la **detención, el encarcelamiento, el exilio, la deportación o la muerte** (incluido el fallecimiento debido a cualquier causa mientras la persona esté bajo la custodia del Estado ) de uno de los padres del niño, o de ambos, o del niño, el Estado Parte proporcionará, cuando se le pida, a los padres, al niño o, si procede, a otro familiar, información básica acerca del paradero del familiar o familiares ausentes, a no ser que ello resultase per judicial para el bienestar del niño. Los Estados Partes se cerciorarán, además, de que la presentación de tal petición no entrañe por sí misma consecuencias desfavorables para la persona o personas interesadas.
+
+---
+## La posición de la DNM
+
+- La CSJN ratificó que la extradición es una causal de separación de padres e hijos según la CDN
+
+- La OC 21/14 establece que la vida familiar no impide la implementación de políticas migratorias de cada estado
+
+- También la OC 21/14 establece que la separación por motivos migratorios solo resulta ilegítima si es por razones de situación migratoria irregular, pero no si se hubieran cometido delitos en el país de origen o el receptor.
+
+---
+## Sin embargo la Corte IDH también dijo que
+
+ La Corte encuentra necesario reiterar que en los procesos de expulsión en dónde se encuentren involucrados niñas y niños, el Estado debe observar además de las garantías señaladas anteriormente, otras cuyo objetivo sea la protección del interés superior de las niñas y niños, entendiendo que dicho interés se relaciona directamente con su derecho a la protección de la familia y, en particular, al disfrute de la vida de familia manteniendo la unidad familiar en la mayor medida posible. 
+
+En este sentido, cualquier decisión de órgano judicial o administrativo que deba decidir acerca de la separación familiar, en razón de la condición migratoria de uno a ambos progenitores debe contemplar las circunstancias particulares del caso concreto, garantizando así una decisión individual, debe perseguir un fin legítimo de acuerdo con la Convención, ser idónea, necesaria y proporcionada. 
+---
+## Sin embargo la Corte IDH también dijo que (cont)
+
+En la consecución de ese fin, el Estado deberá analizar las circunstancias particulares de cada caso, referidas a: 
+
+a) la historia inmigratoria, el lapso temporal de la estadía y la extensión de los lazos del progenitor y/o de su familia con el país receptor; 
+
+b) la consideración sobre la nacionalidad, guarda y residencia de los hijos de la persona que se pretende deportar; 
+
+c) el alcance de la afectación que genera la ruptura familiar debido a la expulsión, incluyendo las personas con quiénes vive la niña o el niño, así como el tiempo que la niña o el niño ha permanecido en esta unidad familiar, y 
+
+d) el alcance de la perturbación en la vida diaria de la niña o del niño si cambiara su situación familiar debido a una medida de expulsión de una persona a cargo de la niña o del niño, de forma tal de ponderar estrictamente dichas circunstancias a la luz del interés superior de la niña o niño en relación con el interés público imperativo que su busca proteger.
+
+.right[**Caso de personas dominicanas y haitianas expulsadas Vs. República Dominicana. Excepciones Preliminares, Fondo, Reparaciones y Costas. Sentencia de 28 de agosto de 2014, parr 357**]
+
+---
+## Sin embargo la Corte IDH también dijo que (cont)
+
+En cuanto a la posible separación familiar por razones migratorias, la Corte recuerda que los Estados tienen la facultad de elaborar y ejecutar sus propias políticas de inmigración, incluyendo el control del ingreso, residencia y expulsión de extranjeros. Sin embargo, cuando un Estado adopta una decisión que involucra alguna limitación al ejercicio de cualquier derecho de una niña o niño, debe tomar en cuenta su interés superior y ajustarse rigurosamente a las disposiciones que rigen esta materia. Al respecto, cabe resaltar que una medida de expulsión o deportación puede tener efectos perjudiciales sobre la vida, bienestar y el desarrollo del niñ[a] o la niñ[o], por lo que el interés superior debe ser una consideración primordial. De este modo, “[c]ualquier decisión relativa a la separación del niño de su familia debe estar justificada por el interés del niño”92. Específicamente, la Corte ha mantenido que “el niño debe permanecer en su núcleo familiar, salvo que existan razones determinantes, en función del interés superior de aquél, para optar por separarlo de su familia”93. Por consiguiente, las separaciones legales de la niña o el niño de su familia solo pueden proceder si están debidamente justificadas en el interés superior del niño, son excepcionales y, en lo posible, temporales.
+
+.right[**Caso de personas dominicanas y haitianas expulsadas Vs. República Dominicana. Excepciones Preliminares, Fondo, Reparaciones y Costas. Sentencia de 28 de agosto de 2014. parr 416**]
+---
+
+## Cámara Contencioso Administrativo Federal, Sala V
+
+Debe hacerse en el caso concreto un test
+de razonabilidad en la medida en que la aquí actora ha sido condenada y cumplido
+su condena por un delito que lleva consigo la expulsión del país; sin perjuicio de lo
+cual se faculta a la autoridad administrativa, en casos excepcionales, a admitir la
+permanencia de quien sufre tal tacha en el país por razones debidamente fundadas.
+En el presente caso, como bien lo expresa el
+recurrente, la actora llegó al país en el año 1994, es decir que hace más de 20 años
+que se encuentra afincada en la República Argentina; aquí ha contraído matrimonio
+con el Sr. Tito Humberto Ramírez Chilcon; aquí vive su madre (ver fs. 38/39), su
+hermano Luis Javier Barrios Rojas (ver fs. 81/82), su sobrina Selenia Ayelén Barrios
+Rojas (ver fs. 83/85), su sobrino Nahuel Marcelo Mendoza (ver fs. 86/89) y que
+asimismo que a fs. 213/219 obra la contestación de oficio de la AFIP donde surge
+que la actora y su marido están registrados laboralmente
+
+.right[**Barrios Rojas, Zoyla Cristina, Marzo 2015, CAF 31968/2011.**]
+
+
